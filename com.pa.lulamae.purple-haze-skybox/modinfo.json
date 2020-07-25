@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.purple-haze-skybox",
+  "display_name": "Pumkin Spice Skybox",
+  "description": "System placed among purple and blue nebulae",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/rel-purple-haze-custom-skybox.72767/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/Purple-Haxe-Skybox-Icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.purple-haze-skybox/settings.js"
+      ]
+  }
+}
